@@ -51,6 +51,6 @@ git push -u origin main
 
 - **Repository**: `Kyumunhwang/graph_name`
 
-- **Build Command**: `npm ci && npm run build`
+- **Build Command**: `npm install && npm run build`
 - **Publish Directory**: `dist`
 - **Rewrite Rule (SPA)**: `/*` → `/index.html` (`Rewrite`)
